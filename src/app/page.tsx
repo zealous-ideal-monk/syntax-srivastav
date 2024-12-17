@@ -2,7 +2,5 @@ import { SignedIn, SignedOut, SignInButton, SignOutButton, SignUpButton, UserBut
 
 
 export default function Home() {
-  return <div>
-
-  </div>
+  return <div>hey</div>
 }
